@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository.
 <br>
-Author-Anamika Kumari
+Author-Anamika (Apna Collage)
